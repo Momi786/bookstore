@@ -472,7 +472,7 @@
 <?php
    include '../include/footer.php';
    ?>
-<script>5
+<script>
    $('.owl1').owlCarousel({
     loop:true,
    margin:10,
