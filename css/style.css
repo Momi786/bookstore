@@ -926,12 +926,7 @@ border: 1px solid #6c5dd4;
 .product .product-price:before, .product .product-line-price:before, .totals-value:before {
   content: '$';
 }
-/* Body/Header stuff */
-body {
-  padding: 0px 30px 30px 20px;
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 100;
-}
+
 h1 {
   font-weight: 100;
 }
@@ -1085,3 +1080,112 @@ label {
  }
 }
 
+.blog-single img{
+  height: 400px!important;
+  width: 1349px!important;
+}
+.single-log-content{
+  padding: 0 15%;
+}
+
+.bg-gray span{
+  color: #909090;
+}
+.bg-gray p{
+  color: #909090;
+}
+.single-log-content blockquote{
+  margin: 55px 19% 0;
+    border-left: 5px solid #6c5dd2;
+    padding-left: 40px;
+}
+
+.btn-facebook{
+  background-color: #3b5997;
+  color: white;
+}
+.btn-twitter{
+  background-color: #1da1f3;
+  color:white;
+}
+.btn-google{
+  background-color: #e14a39;
+  color: white;
+}
+
+.artile-by img{
+  border-radius: 50%;
+}
+.media-back{
+  background-color: #f8f8f8;
+    padding: 13px 10px;
+    border-radius: 10px
+
+}
+.input-color input{
+  background: #f8f8f8;
+    border: none;
+  border-radius: 10px;
+  padding: 25px;
+
+}
+input:focus{
+  outline-style: none;
+}
+.input-color textarea{
+  background: #f8f8f8;
+  border: none;
+  padding: 30px;
+  border-radius: 13px;
+}
+
+textarea:focus{
+  outline-style: none;
+  border: 1px solid #1b8bcb;
+}
+.btn-cmt{
+  background-color: #1b8bcb;
+  color:rgb(255, 255, 255);
+  padding: 8px 54px!important ;
+  box-shadow: 0px 15px 15px rgba(12, 47, 247, 0.1);
+  font-size: 21px!important;
+  border-radius: 25px!important;
+
+}
+.relative{
+  position: relative;
+  top: 88px;
+  z-index: 1;
+}
+.bg-footer{
+  background-color: #1b8bcb;
+  color: white;
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+.newletter-bg{
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.712), 
+      rgb(255, 255, 255)),
+      url( ../img/store.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      padding: 35px 0 35px 0;
+      border: 1px solid #1b8bcb;
+}
+.newletter-bg input{
+  width: 465px!important;
+  border-radius: 20px;
+    padding: 23px;
+}
+.btn-subscribe{
+  background-color: #1b8bcb;
+  color:rgb(255, 255, 255);
+  padding: 8px 54px!important ;
+  box-shadow: 0px 15px 15px rgba(12, 47, 247, 0.1);
+  font-size: 21px!important;
+  border-radius: 25px!important;
+  
+
+}
