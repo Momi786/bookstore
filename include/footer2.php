@@ -15,7 +15,7 @@
     </div>
 
 </div>
-
+</section>
 
 <div class="bg-footer">
 <footer class="footer" style="margin-top: 133px;">

@@ -199,13 +199,13 @@
             </section>
         </div>
     </section>
-<style>
-    ul li::marker{
-        text-align:center;
-    }
-</style>
+
 
  
+
+
+
+
 <?php
    include '../include/footer2.php';
    ?>   
