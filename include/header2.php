@@ -47,17 +47,26 @@
               <nav>
             <ul class="nav justify-content-center p-2">
                 <li class="nav-item">
-                    <a class="nav-link active" href="#">Active</a>
+                    <a class="nav-link text-black" href="../home/index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link text-black" href="#">Books</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link text-black" href="#">Magazines</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="#">Disabled</a>
+                    <a class="nav-link text-black" href="#">Textbooks</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link text-black" href="#">Audio Books</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-black" href="#">Recommended</a>
+                </li>  
+                <li class="nav-item">
+                    <a class="nav-link text-black" href="#">Sale</a>
+                </li> 
             </ul>
             </nav>
               </div>

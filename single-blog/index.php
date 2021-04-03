@@ -52,7 +52,7 @@
                         </div>
                         <div class="share-article">
                             <h6 class="text-center">Share This Article</h6>
-                            <div class="text-center mt-3">
+                            <div class="d-flex justify-content-center mt-3">
                                 <button class="btn btn-facebook mr-2"><i class="fab fa-facebook-f mr-3"></i>Facebook</button>
                                 <button class="btn btn-twitter mr-2"><i class="fab fa-twitter mr-3"></i>Twitter</button>
                                 <button class="btn btn-google"><i class="fab fa-google-plus-g"></i>Google+</button>
